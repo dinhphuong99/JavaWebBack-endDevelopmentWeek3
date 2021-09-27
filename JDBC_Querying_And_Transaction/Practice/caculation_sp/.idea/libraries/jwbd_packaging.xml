@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jwbd-packaging">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jwbd-packaging" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jwbd-packaging/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
