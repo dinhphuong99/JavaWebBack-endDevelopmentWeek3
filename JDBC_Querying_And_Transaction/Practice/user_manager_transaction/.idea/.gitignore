@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\MySQL\CodeGymBT\JavaWebBack-endDevelopmentWeek3\JDBC_Querying_And_Transaction\Practice\user_manager_transaction\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
